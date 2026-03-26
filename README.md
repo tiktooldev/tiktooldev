@@ -1,48 +1,32 @@
 <div align="center">
 
-<img src="https://tik.tools/banner.png" alt="TikTool" width="100%" />
+<a href="https://github.com/tiktool/tiktok-live-api"><img src="./banner.png" alt="TikTool — TikTok LIVE API" width="100%" /></a>
 
-# 👋 Hey, I'm the developer behind [TikTool](https://tik.tools)
+<br/>
 
-**TikTok LIVE API for Developers** — Real-time chat, gifts, viewers, battles & events from any TikTok livestream.
-
-[![Website](https://img.shields.io/badge/tik.tools-Visit%20Website-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tik.tools)
-[![npm](https://img.shields.io/npm/v/@tiktool/live?style=for-the-badge&logo=npm&logoColor=white&label=npm&color=CB3837)](https://www.npmjs.com/package/@tiktool/live)
-[![PyPI](https://img.shields.io/pypi/v/tiktok-live-api?style=for-the-badge&logo=python&logoColor=white&label=PyPI&color=3776AB)](https://pypi.org/project/tiktok-live-api/)
+[![Website](https://img.shields.io/badge/Platform-tik.tools-ff0050?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAydjIwbTgtOEg0Ii8+PC9zdmc+)](https://tik.tools)
+[![npm](https://img.shields.io/npm/v/@tiktool/live?style=flat-square&logo=npm&logoColor=white&label=npm&color=CB3837)](https://www.npmjs.com/package/@tiktool/live)
+[![PyPI](https://img.shields.io/pypi/v/tiktok-live-api?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3776AB)](https://pypi.org/project/tiktok-live-api/)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/tiktool/tiktok-live-api/blob/main/LICENSE)
 
 </div>
 
 ---
 
-### 🚀 What I Build
+### About
 
-- **[@tiktool/live](https://github.com/tiktool/tiktok-live-api)** — Node.js/TypeScript SDK for TikTok LIVE streams
-- **[tiktok-live-python](https://github.com/tiktool/tiktok-live-python)** — Python SDK for TikTok LIVE
-- **[tiktok-live-captions](https://github.com/tiktool/tiktok-live-captions)** — Real-time AI captions for live streams
-- **[tik.tools](https://tik.tools)** — The managed API platform (WebSocket, REST, SDK)
+Developer and maintainer of the **TikTool** ecosystem — a managed API platform for TikTok LIVE stream data. Provides real-time WebSocket delivery of chat, gifts, viewer metrics, battles, and engagement events.
 
-### 🛠️ Tech Stack
+### Projects
 
-```
-Node.js · TypeScript · Python · Nuxt 3 · WebSocket · Unreal Engine 5
-```
+| Repository | Description | Stack |
+|:-----------|:------------|:------|
+| [`@tiktool/live`](https://github.com/tiktool/tiktok-live-api) | Node.js / TypeScript SDK for TikTok LIVE | TypeScript |
+| [`tiktok-live-python`](https://github.com/tiktool/tiktok-live-python) | Python SDK for TikTok LIVE | Python |
+| [`tiktok-live-captions`](https://github.com/tiktool/tiktok-live-captions) | Real-time AI captions and transcription | TypeScript |
+| [`docs`](https://github.com/tiktool/docs) | API documentation and reference | Mintlify |
+| [`tik.tools`](https://tik.tools) | Managed API platform — WebSocket, REST, SDK | Nuxt 3 |
 
-### 📊 Quick Stats
+### Stack
 
-```js
-const tiktool = {
-  api:         "99.9% uptime",
-  sdks:        ["Node.js", "Python", "C++", "C#"],
-  events:      ["chat", "gift", "like", "follow", "viewer_count", "battle"],
-  pricing:     "Free tier — no credit card required",
-  developers:  "Growing community"
-}
-```
-
----
-
-<div align="center">
-
-**💬 Questions?** Open an issue on any repo or reach out at [tik.tools/help](https://tik.tools/help)
-
-</div>
+`Node.js` · `TypeScript` · `Python` · `Nuxt 3` · `WebSocket` · `Unreal Engine 5` · `PostgreSQL` · `Redis`
